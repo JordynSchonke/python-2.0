@@ -14,3 +14,7 @@ print('my favoriete colour is '+ colour)
 
 height=1.60
 print('my height is ' + str(height))
+
+i=10
+i=i+5
+print(i)

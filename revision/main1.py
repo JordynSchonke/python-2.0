@@ -1,0 +1,15 @@
+import turtle
+pen=turtle.Turtle()
+paper=turtle.Screen()
+
+pen.forward(200)
+pen.left(72)
+pen.forward(200)
+pen.left(72)
+pen.forward(200)
+pen.left(72)
+pen.forward(200)
+pen.left(72)
+pen.forward(200)
+pen.left(72)
+turtle.done()
